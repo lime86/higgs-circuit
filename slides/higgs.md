@@ -4,12 +4,12 @@ transition: swoosh
 
 class: invert
 paginate: true
-header: '**The Higgs Circuit** - **Kaj Siebert** and **Lingxin Meng**'
+header: '**Der Higgs-Schaltkreis** - **Kaj Siebert** und **Lingxin Meng**'
 footer: 'CCT.square - Kimiko Festival - 2026'
 
 style: |
   section {
-    font-size: 20px;  /* Adjust this value to change the overall slide font size */
+    font-size: 20px;  /* Passe diesen Wert an, um die allgemeine Schriftgröße der Folien zu ändern */
     display: flex;
     justify-content: flex-start;
   }
@@ -22,29 +22,29 @@ style: |
 
 <!-- _class: title invert -->
 
-# The Higgs Circuit
+# Der Higgs-Schaltkreis
 
-## Complete your own Higgs Circuit
-
----
-
-# CERN - European Organization for Nuclear Research
-
-* Largest particle physics laboratory in the world
-
-* Its main mission is fundamental research in particle physics
-
-* CERN builds the largest machines to study the smallest particles
+## Stelle deinen eigenen Higgs-Schaltkreis fertig
 
 ---
 
-# ACCELERATORS
+# CERN - Europäische Organisation für Kernforschung
+
+* Größtes Teilchenphysiklabor der Welt
+
+* Seine Hauptaufgabe ist die Grundlagenforschung in der Teilchenphysik
+
+* CERN baut die größten Maschinen, um die kleinsten Teilchen zu untersuchen
+
+---
+
+# BESCHLEUNIGER
 
 ![h:500](./img/dipole.jpg)
 
 ---
 
-# DETECTORS
+# DETEKTOREN
 
 ![h:500](./img/atlas-image.jpg)
 
@@ -56,78 +56,77 @@ style: |
 
 ---
 
-# 2012: Higgs Boson
+# 2012: Higgs-Boson
 
 ![h:500](./img/higgs.jpg)
 
 ---
 
-# The Small Wheel
+# Das Small Wheel
 
 ![h:500](./img/small-wheel.jpg)
 
 ---
 
-# The Large Hadron Collider (LHC)
+# Der Large Hadron Collider (LHC)
 
 ![h:500](./img/lhc-aachen.png)
 
 ---
 
-# The Circuit
+# Die Schaltung
 
-- The board
-- A battery pack + batteries
-- A handful of LEDs
+- Die Platine
+- Ein Batteriehalter + Batterien
+- Eine Handvoll LEDs
 
 ---
 
-# LED - Light Emitting Diode
+# LED - Leuchtdiode
 
 ![h:400](./img/led.jpg)
 
-Long leg - towards plus
-Short leg - towards minus
+Langes Bein - in Richtung Plus
+Kurzes Bein - in Richtung Minus
 
 ---
 
-# TWO SIMPLE RULES
+# ZWEI EINFACHE REGELN
 
-1) The soldering irons are hot
-2) The soldering irons are very hot
+1) Die Lötkolben sind heiß
+2) Die Lötkolben sind sehr heiß
 
 ---
 
-# Hold it like this
+# So hältst du ihn richtig
 
 ![h:500](./img/solder-ok.jpg)
 
 ---
 
-# Not like this
+# Nicht so
 
 ![h:500](./img/solder-1.jpg)
 
 ---
 
-# Not like this
+# Nicht so
 
 ![h:500](./img/solder-2.jpg)
 
 ---
 
-# If you smell roast chicken...
+# Wenn es nach Brathähnchen riecht ...
 
 ![h:300](./img/chicken.jpg)
 
-## ... you are holding it wrong
+## ... hältst du ihn falsch
 
 ---
 
-# LED - Light Emitting Diode
+# LED - Leuchtdiode
 
 ![h:400](./img/led.jpg)
 
-Long leg - towards plus
-Short leg - towards minus
-
+Langes Bein - in Richtung Plus
+Kurzes Bein - in Richtung Minus
