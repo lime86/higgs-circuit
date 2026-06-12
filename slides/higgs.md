@@ -107,13 +107,16 @@ Flache Seite - in Richtung Minus
 
 # Nicht so
 
-![h:500](./img/solder-1.jpg)
+![h:500](./img/solder-stockphoto.png)
 
 ---
 
 # Nicht so
 
-![h:500](./img/solder-2.jpg)
+<p float="left">
+  <img src="./img/solder-1.jpg" height="500" />
+  <img src="./img/solder-2.jpg" height="500" />
+</p>
 
 ---
 
