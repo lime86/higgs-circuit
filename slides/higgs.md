@@ -4,8 +4,8 @@ transition: swoosh
 
 class: invert
 paginate: true
-header: '**The Higgs Circuit** - **Kaj Siebert**'
-footer: 'Quantum Corral - Luck Reunion - 2026'
+header: '**The Higgs Circuit** - **Kaj Siebert** and **Lingxin Meng**'
+footer: 'CCT.square - Kimiko Festival - 2026'
 
 style: |
   section {
@@ -66,6 +66,11 @@ style: |
 
 ![h:500](./img/small-wheel.jpg)
 
+---
+
+# The Large Hadron Collider (LHC)
+
+![h:500](./img/lhc-aachen.png)
 
 ---
 
